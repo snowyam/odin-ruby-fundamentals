@@ -10,3 +10,6 @@ The completed exercises and assignments from The Odin Project's back-end ruby cu
 
 ### [III. Advanced Building Blocks](https://github.com/syichi/odin-ruby-fundamentals/tree/master/advanced-building-blocks)
 * [Ruby Programming >> Basic Ruby >> Project: Advanced Building Blocks](http://www.theodinproject.com/ruby-programming/advanced-building-blocks)
+
+### [IV. EventManager](https://github.com/syichi/odin-ruby-fundamentals/tree/master/event-manager)
+* [Ruby Programming >> Intermediate Ruby >> Project: File I/O and Serialization](http://www.theodinproject.com/ruby-programming/file-i-o-and-serialization)
