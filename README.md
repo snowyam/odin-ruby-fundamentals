@@ -13,3 +13,6 @@ The completed exercises and assignments from The Odin Project's back-end ruby cu
 
 ### [IV. EventManager](https://github.com/syichi/odin-ruby-fundamentals/tree/master/event-manager)
 * [Ruby Programming >> Intermediate Ruby >> Project: File I/O and Serialization](http://www.theodinproject.com/ruby-programming/file-i-o-and-serialization)
+
+### [V. Recursion](https://github.com/syichi/odin-ruby-fundamentals/tree/master/recursion)
+* [Ruby Programming >> A Bit of Computer Science >> Project: Recursion](http://www.theodinproject.com/ruby-programming/recursion)
